@@ -1,0 +1,9 @@
+reference_number,consumer_id,first_name,last_name,address,ssn,email,number_to_call,account_id,account_type,debt_due,original_amount_due,original_lender,due_since
+241263,295692,Allison,Jones,"2317 Maple Grove Road, Alexandria, VA 22308",4132,alliheartjones1987@gmail.com,+16203496828,518432,utility,211.43,253.2,Regional Utilities,2024-01-11
+815242,216191,Christian,Brennan,"125 Highland Park Drive, Suite 245, Birmingham, AL 35242",7683,christibstan@gmail.com,+18456971789,984857,credit_card,650.32,740.6,Capital One,2024-07-19
+338193,694563,Mark,Washington,"607 Clark Street, Suite 425, Raleigh, NC 27601",5726,mark.k.wash@outlook.com,+12184894284,647241,personal_loan,684.75,820,Bank of America,2024-03-01
+448901,197202,James,Robinson,"185 Woodland Drive, Columbus, OH 43215",4817,jamieaccshopping@hotmail.com,+12702791031,843189,credit_card,582.34,659.6,Discover,2024-04-05
+988927,821678,Jennifer,Solis,"437 Nicole Street, East Amherst, NY 14051",8208,jennyso2025@outlook.com,+12192001883,493535,personal_loan,746.32,895,TD Bank,2024-02-15
+885896,369013,Lindsey,Phillips,"2814 Matthew Lane, Port Arthur, TX 77642",5983,itsliloandstitch@hotmail.com,+19034033489,738294,utility,376.12,439.6,Midwest Energy,2024-06-22
+269721,957068,Allen,Gomez,"9504 River Point Drive, Suite 899, Englewood, CO 80112",7563,allgom19821@gmail.com,+18159120656,629186,personal_loan,526.17,633.2,Wells Fargo,2024-05-08
+152229,319373,Nicholas,Taylor,"2081 Grove Park Drive, Suite 682, Boca Raton, FL 33432",1314,nicklovespizza4@gmail.com,+18312170059,847563,utility,328.34,393.6,City Power & Light,2024-05-17
