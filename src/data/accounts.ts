@@ -6,6 +6,7 @@ export interface Account {
   address: string;
   ssn: string;
   email: string;
+  phone_number: string;
   number_to_call: string;
   account_id: string;
   account_type: 'utility' | 'credit_card' | 'personal_loan';
@@ -24,6 +25,7 @@ export const accounts: Account[] = [
     address: "2317 Maple Grove Road, Alexandria, VA 22308",
     ssn: "4132",
     email: "alliheartjones1987@gmail.com",
+    phone_number: "7035430123",
     number_to_call: "+16203496828",
     account_id: "518432",
     account_type: "utility",
@@ -40,6 +42,7 @@ export const accounts: Account[] = [
     address: "1029 Belfield Ave, Drexel Hill, PA 19026",
     ssn: "7683",
     email: "christibstan@gmail.com",
+    phone_number: "2056780184",
     number_to_call: "+18456971789",
     account_id: "984857",
     account_type: "credit_card",
@@ -56,6 +59,7 @@ export const accounts: Account[] = [
     address: "607 Clark Street, Suite 425, Raleigh, NC 27601",
     ssn: "5726",
     email: "mark.k.wash@outlook.com",
+    phone_number: "9194310147",
     number_to_call: "+12184894284",
     account_id: "647241",
     account_type: "personal_loan",
@@ -72,6 +76,7 @@ export const accounts: Account[] = [
     address: "185 Woodland Drive, Columbus, OH 43215",
     ssn: "4817",
     email: "jamieaccshopping@hotmail.com",
+    phone_number: "6149870128",
     number_to_call: "+12185262444",
     account_id: "843189",
     account_type: "credit_card",
@@ -88,6 +93,7 @@ export const accounts: Account[] = [
     address: "815 E Calaveras Street Suite 201, Altadena, CA 91001",
     ssn: "8208",
     email: "jennyso2025@outlook.com",
+    phone_number: "7169830192",
     number_to_call: "+12192001883",
     account_id: "493535",
     account_type: "personal_loan",
@@ -104,6 +110,7 @@ export const accounts: Account[] = [
     address: "2814 Matthew Lane, Port Arthur, TX 77642",
     ssn: "5983",
     email: "itsliloandstitch@hotmail.com",
+    phone_number: "4098492147",
     number_to_call: "+19034033489",
     account_id: "738294",
     account_type: "utility",
@@ -120,6 +127,7 @@ export const accounts: Account[] = [
     address: "9504 River Point Drive, Suite 899, Englewood, CO 80112",
     ssn: "7563",
     email: "allgom19821@gmail.com",
+    phone_number: "7204981296",
     number_to_call: "+18159120656",
     account_id: "629186",
     account_type: "personal_loan",
@@ -136,6 +144,7 @@ export const accounts: Account[] = [
     address: "2081 Grove Park Drive, Suite 682, Boca Raton, FL 33432",
     ssn: "1314",
     email: "nicklovespizza4@gmail.com",
+    phone_number: "5618234317",
     number_to_call: "+18312170059",
     account_id: "847563",
     account_type: "utility",

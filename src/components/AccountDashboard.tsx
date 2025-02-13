@@ -113,7 +113,7 @@ const AccountDashboard = () => {
                       <Phone size={16} />
                       <span className="font-medium">:</span>
                     </div>
-                    <a href={`tel:${account.number_to_call}`} className="hover:underline">{account.number_to_call}</a>
+                    <a href={`tel:${account.phone_number}`} className="hover:underline">{account.phone_number}</a>
                   </div>
                 </div>
               </div>
