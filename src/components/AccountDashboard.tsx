@@ -78,7 +78,7 @@ const AccountDashboard = () => {
                 alt="Account QR Code"
                 className="w-32 h-32 rounded-lg shadow-md"
               />
-              <p className="mt-2 text-sm text-gray-600">{account.number_to_call}</p>
+              <p className="mt-2 text-sm text-center text-gray-600">{account.number_to_call}</p>
             </div>
           </div>
         </div>
