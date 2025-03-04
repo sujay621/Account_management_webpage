@@ -26,14 +26,13 @@ export const accounts: Account[] = [
     ssn: "4132",
     email: "alliheartjones1987@gmail.com",
     phone_number: "7035430123",
-    number_to_call: "+16203496828",
+    number_to_call: "+19478004227",
     account_id: "518432",
-    account_type: "credit_card",
-    debt_due: 1956.62,
-    original_amount_due: 1942,
-    original_lender: "Chase Sapphire Preferred",
-    due_since: "2025-02-28",
-    
+    account_type: "utility",
+    debt_due: 211.43,
+    original_amount_due: 253.20,
+    original_lender: "Regional Utilities",
+    due_since: "2024-01-11"
   },
   {
     reference_number: "815242",
@@ -44,14 +43,13 @@ export const accounts: Account[] = [
     ssn: "7683",
     email: "christibstan@gmail.com",
     phone_number: "2056780184",
-    number_to_call: "+18456971789",
+    number_to_call: "+18177610876",
     account_id: "984857",
     account_type: "credit_card",
-    debt_due: 4273.28,
-    original_amount_due: 4263,
-    original_lender: "Chase Freedom Unlimited",
-    due_since: "2025-03-02",
-   
+    debt_due: 650.32,
+    original_amount_due: 740.60,
+    original_lender: "Capital One",
+    due_since: "2024-07-19"
   },
   {
     reference_number: "338193",
@@ -62,14 +60,13 @@ export const accounts: Account[] = [
     ssn: "5726",
     email: "mark.k.wash@outlook.com",
     phone_number: "9194310147",
-    number_to_call: "+12184894284",
+    number_to_call: "+12536002325",
     account_id: "647241",
-    account_type: "credit_card",
-    debt_due: 3035.33,
-    original_amount_due: 2957,
-    original_lender: "Chase Freedom Flex",
-    due_since: "2025-02-16",
-   
+    account_type: "personal_loan",
+    debt_due: 684.75,
+    original_amount_due: 820.00,
+    original_lender: "Bank of America",
+    due_since: "2024-03-01"
   },
   {
     reference_number: "448901",
@@ -80,14 +77,13 @@ export const accounts: Account[] = [
     ssn: "4817",
     email: "jamieaccshopping@hotmail.com",
     phone_number: "6149870128",
-    number_to_call: "+12185262444",
+    number_to_call: "+19032943031",
     account_id: "843189",
     account_type: "credit_card",
-    debt_due: 1362.1,
-    original_amount_due: 1355,
-    original_lender: "Southwest Rapid Rewards",
-    due_since: "2025-03-02",
-   
+    debt_due: 582.34,
+    original_amount_due: 659.60,
+    original_lender: "Discover",
+    due_since: "2024-04-05"
   },
   {
     reference_number: "988927",
@@ -98,14 +94,13 @@ export const accounts: Account[] = [
     ssn: "8208",
     email: "jennyso2025@outlook.com",
     phone_number: "7169830192",
-    number_to_call: "+12192001883",
+    number_to_call: "+13155099039",
     account_id: "493535",
-    account_type: "credit_card",
-    debt_due: 3751.12,
-    original_amount_due: 3687,
-    original_lender: "Chase Freedom Flex",
-    due_since: "2025-02-28",
-    
+    account_type: "personal_loan",
+    debt_due: 746.32,
+    original_amount_due: 895.00,
+    original_lender: "TD Bank",
+    due_since: "2024-02-15"
   },
   {
     reference_number: "885896",
@@ -116,14 +111,13 @@ export const accounts: Account[] = [
     ssn: "5983",
     email: "itsliloandstitch@hotmail.com",
     phone_number: "4098492147",
-    number_to_call: "+19034033489",
+    number_to_call: "+12202144876",
     account_id: "738294",
-    account_type: "credit_card",
-    debt_due: 1168.54,
-    original_amount_due: 1165,
-    original_lender: "Chase Freedom Rise",
-    due_since: "2025-03-02",
-    
+    account_type: "utility",
+    debt_due: 376.12,
+    original_amount_due: 439.60,
+    original_lender: "Midwest Energy",
+    due_since: "2024-06-22"
   },
   {
     reference_number: "269721",
@@ -134,14 +128,13 @@ export const accounts: Account[] = [
     ssn: "7563",
     email: "allgom19821@gmail.com",
     phone_number: "7204981296",
-    number_to_call: "+18159120656",
+    number_to_call: "+13176498748",
     account_id: "629186",
-    account_type: "credit_card",
-    debt_due: 1961.2,
-    original_amount_due: 1945,
-    original_lender: "Chase Slate Edge",
-    due_since: "2025-03-01",
-    
+    account_type: "personal_loan",
+    debt_due: 526.17,
+    original_amount_due: 633.20,
+    original_lender: "Wells Fargo",
+    due_since: "2024-05-08"
   },
   {
     reference_number: "152229",
@@ -152,13 +145,13 @@ export const accounts: Account[] = [
     ssn: "1314",
     email: "nicklovespizza4@gmail.com",
     phone_number: "5618234317",
-    number_to_call: "+18312170059",
+    number_to_call: "+13132511684",
     account_id: "847563",
     account_type: "credit_card",
     debt_due: 4036.42,
     original_amount_due: 3806,
     original_lender: "Chase Freedom Rise",
     due_since: "2025-02-01",
-    
+  
   }
 ];
