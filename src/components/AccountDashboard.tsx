@@ -134,7 +134,7 @@ const AccountDashboard = () => {
                     <span className="capitalize flex-1">{account.account_type.replace('_', ' ')}</span>
                   </p>
                   <p className="flex">
-                    <span className="font-medium w-40">Original Lender:</span>
+                    <span className="font-medium w-40">Product:</span>
                     <span className="flex-1">{account.original_lender}</span>
                   </p>
                 </div>
