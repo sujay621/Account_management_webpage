@@ -74,7 +74,7 @@ const AccountDashboard = () => {
           <div className="w-full md:w-auto flex justify-center md:justify-end">
             <div className="text-center md:text-right">
               <img 
-                src={`/qr-codes/${account.consumer_id}.svg`}
+                src={`/qr-codes/${account.consumer_id}.png`}
                 alt="Account QR Code"
                 className="w-32 h-32 rounded-lg shadow-md"
               />
