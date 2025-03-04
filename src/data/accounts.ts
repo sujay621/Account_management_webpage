@@ -28,11 +28,12 @@ export const accounts: Account[] = [
     phone_number: "7035430123",
     number_to_call: "+16203496828",
     account_id: "518432",
-    account_type: "utility",
-    debt_due: 211.43,
-    original_amount_due: 253.20,
-    original_lender: "Regional Utilities",
-    due_since: "2024-01-11"
+    account_type: "credit_card",
+    debt_due: 1956.62,
+    original_amount_due: 1942,
+    original_lender: "Chase Sapphire Preferred",
+    due_since: "2025-02-28",
+    
   },
   {
     reference_number: "815242",
@@ -46,10 +47,11 @@ export const accounts: Account[] = [
     number_to_call: "+18456971789",
     account_id: "984857",
     account_type: "credit_card",
-    debt_due: 650.32,
-    original_amount_due: 740.60,
-    original_lender: "Capital One",
-    due_since: "2024-07-19"
+    debt_due: 4273.28,
+    original_amount_due: 4263,
+    original_lender: "Chase Freedom Unlimited",
+    due_since: "2025-03-02",
+   
   },
   {
     reference_number: "338193",
@@ -62,11 +64,12 @@ export const accounts: Account[] = [
     phone_number: "9194310147",
     number_to_call: "+12184894284",
     account_id: "647241",
-    account_type: "personal_loan",
-    debt_due: 684.75,
-    original_amount_due: 820.00,
-    original_lender: "Bank of America",
-    due_since: "2024-03-01"
+    account_type: "credit_card",
+    debt_due: 3035.33,
+    original_amount_due: 2957,
+    original_lender: "Chase Freedom Flex",
+    due_since: "2025-02-16",
+   
   },
   {
     reference_number: "448901",
@@ -80,10 +83,11 @@ export const accounts: Account[] = [
     number_to_call: "+12185262444",
     account_id: "843189",
     account_type: "credit_card",
-    debt_due: 582.34,
-    original_amount_due: 659.60,
-    original_lender: "Discover",
-    due_since: "2024-04-05"
+    debt_due: 1362.1,
+    original_amount_due: 1355,
+    original_lender: "Southwest Rapid Rewards",
+    due_since: "2025-03-02",
+   
   },
   {
     reference_number: "988927",
@@ -96,11 +100,12 @@ export const accounts: Account[] = [
     phone_number: "7169830192",
     number_to_call: "+12192001883",
     account_id: "493535",
-    account_type: "personal_loan",
-    debt_due: 746.32,
-    original_amount_due: 895.00,
-    original_lender: "TD Bank",
-    due_since: "2024-02-15"
+    account_type: "credit_card",
+    debt_due: 3751.12,
+    original_amount_due: 3687,
+    original_lender: "Chase Freedom Flex",
+    due_since: "2025-02-28",
+    
   },
   {
     reference_number: "885896",
@@ -113,11 +118,12 @@ export const accounts: Account[] = [
     phone_number: "4098492147",
     number_to_call: "+19034033489",
     account_id: "738294",
-    account_type: "utility",
-    debt_due: 376.12,
-    original_amount_due: 439.60,
-    original_lender: "Midwest Energy",
-    due_since: "2024-06-22"
+    account_type: "credit_card",
+    debt_due: 1168.54,
+    original_amount_due: 1165,
+    original_lender: "Chase Freedom Rise",
+    due_since: "2025-03-02",
+    
   },
   {
     reference_number: "269721",
@@ -130,11 +136,12 @@ export const accounts: Account[] = [
     phone_number: "7204981296",
     number_to_call: "+18159120656",
     account_id: "629186",
-    account_type: "personal_loan",
-    debt_due: 526.17,
-    original_amount_due: 633.20,
-    original_lender: "Wells Fargo",
-    due_since: "2024-05-08"
+    account_type: "credit_card",
+    debt_due: 1961.2,
+    original_amount_due: 1945,
+    original_lender: "Chase Slate Edge",
+    due_since: "2025-03-01",
+    
   },
   {
     reference_number: "152229",
@@ -147,10 +154,11 @@ export const accounts: Account[] = [
     phone_number: "5618234317",
     number_to_call: "+18312170059",
     account_id: "847563",
-    account_type: "utility",
-    debt_due: 328.34,
-    original_amount_due: 393.60,
-    original_lender: "City Power & Light",
-    due_since: "2024-05-17"
+    account_type: "credit_card",
+    debt_due: 4036.42,
+    original_amount_due: 3806,
+    original_lender: "Chase Freedom Rise",
+    due_since: "2025-02-01",
+    
   }
 ];
